@@ -5,6 +5,7 @@
   + Login/Logout with Session & MySQL DB.
   + Create a user.
   + Create a class for this user.
+  + Switch classes.
   + Add/Delete student to this class.
 # DEMO:
 ![Imgur](https://imgur.com/IPJ3PtX.png)
