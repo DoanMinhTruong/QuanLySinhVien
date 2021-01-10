@@ -1,5 +1,6 @@
 # QuanLySinhVien
-# Languagues : PHP, MySQL, Javascript/Jquery, HTML/CSS(Bootstrap).
+# Languagues:
+  + PHP, MySQL, Javascript/Jquery, HTML/CSS(Bootstrap).
 # Tasks:
   + Design Templates (Grid System).
   + Login/Logout with Session & MySQL DB.
